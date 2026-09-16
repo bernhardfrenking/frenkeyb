@@ -1,4 +1,4 @@
-if SHIELD_DACTYL_MANUFORM_6x8_LEFT
+if SHIELD_DACTYL_MANUFORM_6x8_RIGHT
 
     config ZMK_KEYBOARD_NAME
         default "Keyboard6x8"
